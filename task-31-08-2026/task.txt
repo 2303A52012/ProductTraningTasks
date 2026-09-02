@@ -1,0 +1,6 @@
+1. Print the boundary nodes of a binary tree.
+2. Print the left view of a binary tree.
+3. Print the right view of a binary tree.
+4. Find the lowest common ancestor (LCA) of two nodes in a binary tree.
+5. Find the path from the root to a given node in a binary tree.
+6. Construct a binary tree from inorder and preorder traversal.

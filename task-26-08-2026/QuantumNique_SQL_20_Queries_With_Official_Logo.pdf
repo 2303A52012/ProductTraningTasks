@@ -1,0 +1,2685 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 13 0 R 19 0 R 25 0 R 31 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+>>
+/XObject <<
+/FormXob.00b37397b7964aebac797902dd994b65 11 0 R
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 11013
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+q
+118.6654 0 0 24.09449 42.51969 790.8661 cm
+/FormXob.00b37397b7964aebac797902dd994b65 Do
+Q
+.831373 .623529 .113725 RG
+1 w
+n 42.51969 783.7795 m 552.7559 783.7795 l S
+.835294 .870588 .882353 RG
+.5 w
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.396078 .458824 .490196 rg
+BT 1 0 0 1 42.51969 24.09449 Tm (QuantumNique Solutions Pvt Ltd | SQL Classroom Practice) Tj T* ET
+BT 1 0 0 1 529.9391 24.09449 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 756.5197 cm
+Q
+q
+1 0 0 1 48.51969 732.5197 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 114.0981 0 Td (SQL QUERY PRACTICE SET) Tj T* -114.0981 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 711.5197 cm
+q
+.396078 .458824 .490196 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL 74.04636 0 Td (20 Medium-to-Hard Questions - Basics, Aggregation, Joins and Subqueries) Tj T* -74.04636 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 671.1197 cm
+q
+.831373 .623529 .113725 RG
+.6 w
+1 .968627 .87451 rg
+n -7 -7 512.2362 40.4 re B*
+Q
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (Database:) Tj /F1 9.2 Tf ( Use the same ) Tj /F2 9.2 Tf (departments) Tj /F1 9.2 Tf (, ) Tj /F2 9.2 Tf (employees) Tj /F1 9.2 Tf (, and ) Tj /F2 9.2 Tf (projects) Tj /F1 9.2 Tf ( tables throughout. Questions progress from strong) Tj T* (SQL fundamentals to joins and interview-level subqueries. ) Tj /F2 9.2 Tf (Questions only - no solutions are included.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 645.1197 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. Table Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 624.1197 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (departments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.77953 500.1197 cm
+q
+.117647 .337255 .376471 rg
+n 0 120 467.7165 -20 re f*
+1 1 1 rg
+n 0 100 467.7165 -20 re f*
+.968627 .980392 .980392 rg
+n 0 80 467.7165 -20 re f*
+1 1 1 rg
+n 0 60 467.7165 -20 re f*
+.968627 .980392 .980392 rg
+n 0 40 467.7165 -20 re f*
+1 1 1 rg
+n 0 20 467.7165 -20 re f*
+1 1 1 rg
+BT /F2 8.3 Tf 12 TL ET
+BT 1 0 0 1 4 107.7 Tm (dept_id) Tj T* ET
+BT 1 0 0 1 103.2126 107.7 Tm (dept_name) Tj T* ET
+BT 1 0 0 1 287.4646 107.7 Tm (location) Tj T* ET
+0 0 0 rg
+BT /F1 8.3 Tf 12 TL ET
+BT 1 0 0 1 4 87.7 Tm (10) Tj T* ET
+BT 1 0 0 1 103.2126 87.7 Tm (Engineering) Tj T* ET
+BT 1 0 0 1 287.4646 87.7 Tm (Chennai) Tj T* ET
+BT 1 0 0 1 4 67.7 Tm (20) Tj T* ET
+BT 1 0 0 1 103.2126 67.7 Tm (Sales) Tj T* ET
+BT 1 0 0 1 287.4646 67.7 Tm (Hyderabad) Tj T* ET
+BT 1 0 0 1 4 47.7 Tm (30) Tj T* ET
+BT 1 0 0 1 103.2126 47.7 Tm (HR) Tj T* ET
+BT 1 0 0 1 287.4646 47.7 Tm (Bengaluru) Tj T* ET
+BT 1 0 0 1 4 27.7 Tm (40) Tj T* ET
+BT 1 0 0 1 103.2126 27.7 Tm (Research) Tj T* ET
+BT 1 0 0 1 287.4646 27.7 Tm (Pune) Tj T* ET
+BT 1 0 0 1 4 7.7 Tm (50) Tj T* ET
+BT 1 0 0 1 103.2126 7.7 Tm (Support) Tj T* ET
+BT 1 0 0 1 287.4646 7.7 Tm (Chennai) Tj T* ET
+q
+1 J
+1 j
+.737255 .784314 .8 RG
+.45 w
+n 0 120 m 467.7165 120 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 120 l S
+n 467.7165 0 m 467.7165 120 l S
+n 0 100 m 467.7165 100 l S
+n 0 80 m 467.7165 80 l S
+n 0 60 m 467.7165 60 l S
+n 0 40 m 467.7165 40 l S
+n 0 20 m 467.7165 20 l S
+n 99.2126 0 m 99.2126 120 l S
+n 283.4646 0 m 283.4646 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 495.1197 cm
+Q
+q
+1 0 0 1 48.51969 474.1197 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (employees) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.3622 250.1197 cm
+q
+.117647 .337255 .376471 rg
+n 0 220 470.5512 -20 re f*
+1 1 1 rg
+n 0 200 470.5512 -20 re f*
+.968627 .980392 .980392 rg
+n 0 180 470.5512 -20 re f*
+1 1 1 rg
+n 0 160 470.5512 -20 re f*
+.968627 .980392 .980392 rg
+n 0 140 470.5512 -20 re f*
+1 1 1 rg
+n 0 120 470.5512 -20 re f*
+.968627 .980392 .980392 rg
+n 0 100 470.5512 -20 re f*
+1 1 1 rg
+n 0 80 470.5512 -20 re f*
+.968627 .980392 .980392 rg
+n 0 60 470.5512 -20 re f*
+1 1 1 rg
+n 0 40 470.5512 -20 re f*
+.968627 .980392 .980392 rg
+n 0 20 470.5512 -20 re f*
+1 1 1 rg
+BT /F2 7.8 Tf 12 TL ET
+BT 1 0 0 1 4 208.2 Tm (emp_id) Tj T* ET
+BT 1 0 0 1 72.0315 208.2 Tm (emp_name) Tj T* ET
+BT 1 0 0 1 196.7559 208.2 Tm (dept_id) Tj T* ET
+BT 1 0 0 1 276.126 208.2 Tm (salary) Tj T* ET
+BT 1 0 0 1 375.3386 208.2 Tm (manager_id) Tj T* ET
+0 0 0 rg
+BT /F1 7.8 Tf 12 TL ET
+BT 1 0 0 1 4 188.2 Tm (101) Tj T* ET
+BT 1 0 0 1 72.0315 188.2 Tm (Arun) Tj T* ET
+BT 1 0 0 1 196.7559 188.2 Tm (10) Tj T* ET
+BT 1 0 0 1 276.126 188.2 Tm (50000) Tj T* ET
+BT 1 0 0 1 375.3386 188.2 Tm (103) Tj T* ET
+BT 1 0 0 1 4 168.2 Tm (102) Tj T* ET
+BT 1 0 0 1 72.0315 168.2 Tm (Bala) Tj T* ET
+BT 1 0 0 1 196.7559 168.2 Tm (20) Tj T* ET
+BT 1 0 0 1 276.126 168.2 Tm (45000) Tj T* ET
+BT 1 0 0 1 375.3386 168.2 Tm (106) Tj T* ET
+BT 1 0 0 1 4 148.2 Tm (103) Tj T* ET
+BT 1 0 0 1 72.0315 148.2 Tm (Charan) Tj T* ET
+BT 1 0 0 1 196.7559 148.2 Tm (10) Tj T* ET
+BT 1 0 0 1 276.126 148.2 Tm (80000) Tj T* ET
+BT 1 0 0 1 375.3386 148.2 Tm (NULL) Tj T* ET
+BT 1 0 0 1 4 128.2 Tm (104) Tj T* ET
+BT 1 0 0 1 72.0315 128.2 Tm (Divya) Tj T* ET
+BT 1 0 0 1 196.7559 128.2 Tm (30) Tj T* ET
+BT 1 0 0 1 276.126 128.2 Tm (40000) Tj T* ET
+BT 1 0 0 1 375.3386 128.2 Tm (108) Tj T* ET
+BT 1 0 0 1 4 108.2 Tm (105) Tj T* ET
+BT 1 0 0 1 72.0315 108.2 Tm (Ezhil) Tj T* ET
+BT 1 0 0 1 196.7559 108.2 Tm (10) Tj T* ET
+BT 1 0 0 1 276.126 108.2 Tm (65000) Tj T* ET
+BT 1 0 0 1 375.3386 108.2 Tm (103) Tj T* ET
+BT 1 0 0 1 4 88.2 Tm (106) Tj T* ET
+BT 1 0 0 1 72.0315 88.2 Tm (Farah) Tj T* ET
+BT 1 0 0 1 196.7559 88.2 Tm (20) Tj T* ET
+BT 1 0 0 1 276.126 88.2 Tm (75000) Tj T* ET
+BT 1 0 0 1 375.3386 88.2 Tm (NULL) Tj T* ET
+BT 1 0 0 1 4 68.2 Tm (107) Tj T* ET
+BT 1 0 0 1 72.0315 68.2 Tm (Gokul) Tj T* ET
+BT 1 0 0 1 196.7559 68.2 Tm (40) Tj T* ET
+BT 1 0 0 1 276.126 68.2 Tm (55000) Tj T* ET
+BT 1 0 0 1 375.3386 68.2 Tm (109) Tj T* ET
+BT 1 0 0 1 4 48.2 Tm (108) Tj T* ET
+BT 1 0 0 1 72.0315 48.2 Tm (Harini) Tj T* ET
+BT 1 0 0 1 196.7559 48.2 Tm (30) Tj T* ET
+BT 1 0 0 1 276.126 48.2 Tm (70000) Tj T* ET
+BT 1 0 0 1 375.3386 48.2 Tm (NULL) Tj T* ET
+BT 1 0 0 1 4 28.2 Tm (109) Tj T* ET
+BT 1 0 0 1 72.0315 28.2 Tm (Irfan) Tj T* ET
+BT 1 0 0 1 196.7559 28.2 Tm (40) Tj T* ET
+BT 1 0 0 1 276.126 28.2 Tm (90000) Tj T* ET
+BT 1 0 0 1 375.3386 28.2 Tm (NULL) Tj T* ET
+BT 1 0 0 1 4 8.2 Tm (110) Tj T* ET
+BT 1 0 0 1 72.0315 8.2 Tm (Janani) Tj T* ET
+BT 1 0 0 1 196.7559 8.2 Tm (10) Tj T* ET
+BT 1 0 0 1 276.126 8.2 Tm (60000) Tj T* ET
+BT 1 0 0 1 375.3386 8.2 Tm (103) Tj T* ET
+q
+1 J
+1 j
+.737255 .784314 .8 RG
+.45 w
+n 0 220 m 470.5512 220 l S
+n 0 0 m 470.5512 0 l S
+n 0 0 m 0 220 l S
+n 470.5512 0 m 470.5512 220 l S
+n 0 200 m 470.5512 200 l S
+n 0 180 m 470.5512 180 l S
+n 0 160 m 470.5512 160 l S
+n 0 140 m 470.5512 140 l S
+n 0 120 m 470.5512 120 l S
+n 0 100 m 470.5512 100 l S
+n 0 80 m 470.5512 80 l S
+n 0 60 m 470.5512 60 l S
+n 0 40 m 470.5512 40 l S
+n 0 20 m 470.5512 20 l S
+n 68.0315 0 m 68.0315 220 l S
+n 192.7559 0 m 192.7559 220 l S
+n 272.126 0 m 272.126 220 l S
+n 371.3386 0 m 371.3386 220 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 245.1197 cm
+Q
+q
+1 0 0 1 48.51969 224.1197 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 120.1197 cm
+q
+.117647 .337255 .376471 rg
+n 0 100 481.8898 -20 re f*
+1 1 1 rg
+n 0 80 481.8898 -20 re f*
+.968627 .980392 .980392 rg
+n 0 60 481.8898 -20 re f*
+1 1 1 rg
+n 0 40 481.8898 -20 re f*
+.968627 .980392 .980392 rg
+n 0 20 481.8898 -20 re f*
+1 1 1 rg
+BT /F2 8.1 Tf 12 TL ET
+BT 1 0 0 1 4 87.9 Tm (project_id) Tj T* ET
+BT 1 0 0 1 89.03937 87.9 Tm (project_name) Tj T* ET
+BT 1 0 0 1 287.4646 87.9 Tm (dept_id) Tj T* ET
+BT 1 0 0 1 372.5039 87.9 Tm (budget) Tj T* ET
+0 0 0 rg
+BT /F1 8.1 Tf 12 TL ET
+BT 1 0 0 1 4 67.9 Tm (1) Tj T* ET
+BT 1 0 0 1 89.03937 67.9 Tm (Cloud Migration) Tj T* ET
+BT 1 0 0 1 287.4646 67.9 Tm (10) Tj T* ET
+BT 1 0 0 1 372.5039 67.9 Tm (500000) Tj T* ET
+BT 1 0 0 1 4 47.9 Tm (2) Tj T* ET
+BT 1 0 0 1 89.03937 47.9 Tm (Mobile App) Tj T* ET
+BT 1 0 0 1 287.4646 47.9 Tm (10) Tj T* ET
+BT 1 0 0 1 372.5039 47.9 Tm (300000) Tj T* ET
+BT 1 0 0 1 4 27.9 Tm (3) Tj T* ET
+BT 1 0 0 1 89.03937 27.9 Tm (CRM Upgrade) Tj T* ET
+BT 1 0 0 1 287.4646 27.9 Tm (20) Tj T* ET
+BT 1 0 0 1 372.5039 27.9 Tm (250000) Tj T* ET
+BT 1 0 0 1 4 7.9 Tm (4) Tj T* ET
+BT 1 0 0 1 89.03937 7.9 Tm (Recruitment AI) Tj T* ET
+BT 1 0 0 1 287.4646 7.9 Tm (30) Tj T* ET
+BT 1 0 0 1 372.5039 7.9 Tm (200000) Tj T* ET
+q
+1 J
+1 j
+.737255 .784314 .8 RG
+.45 w
+n 0 100 m 481.8898 100 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 100 l S
+n 481.8898 0 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 85.03937 0 m 85.03937 100 l S
+n 283.4646 0 m 283.4646 100 l S
+n 368.5039 0 m 368.5039 100 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 115.1197 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 786.6142 170.0787 34.01575 re
+f*
+q
+153.0709 0 0 23.7619 42.51969 790.3238 cm
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 Do
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 784.9134 175.748 37.41732 re
+f*
+q
+1 0 0 1 42.51969 788.5984 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[ ] 0 d
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+q
+0.027559 0 0 0.027559 0 0 cm
+q
+1 0 0 -1 0 1080 cm
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+746.38 645.15 m
+747.01 645.87 l
+747.07 645.78 747.12 645.69 747.18 645.57 c
+746.39 645.15 l
+h
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.113725 0.282353 0.317647 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+790.79 484.47 m
+790.79 543.11 774.92 598.12 747.17 645.58 c
+746.38 645.16 l
+709.6 625.69 l
+551.07 541.75 l
+561.9 525.23 568.18 505.56 568.18 484.47 c
+568.18 425.9 519.78 378.42 460.07 378.42 c
+400.36 378.42 351.94 425.9 351.94 484.47 c
+351.94 543.04 400.36 590.52 460.07 590.52 c
+471.03 590.52 481.62 588.91 491.59 585.94 c
+555.05 760.28 l
+566.47 791.67 l
+566.47 791.67 566.4 791.71 566.38 791.71 c
+533.02 802.82 497.26 808.83 460.07 808.83 c
+277.41 808.83 129.32 663.61 129.32 484.47 c
+129.32 305.33 277.4 160.09 460.07 160.09 c
+642.74 160.09 790.8 305.31 790.8 484.47 c
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+551.07 541.74 m
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+551.07 541.73 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+551.07 541.74 l
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+747.17 645.58 m
+747.11 645.69 747.06 645.78 747 645.88 c
+746.37 645.16 l
+747.16 645.58 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+852.98 767.57 m
+678.03 919.92 l
+600.05 830.37 l
+566.56 791.91 l
+566.47 791.67 l
+643.18 766.13 707.25 713.73 747.01 645.87 c
+775 678.01 l
+852.98 767.56 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+566.56 791.91 m
+566.38 791.71 l
+566.38 791.71 566.44 791.69 566.47 791.67 c
+566.56 791.91 l
+h
+f*
+Q
+Q
+Q
+Q
+Q
+0.811765 0.627451 0.180392 RG
+1 w
+n
+42.51969 783.7795 m
+552.7559 783.7795 l
+S
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 40
+/Subtype /Image
+/Type /XObject
+/Width 197
+/Length 2542
+>>
+stream
+Gb"/iM,P(3'Z^4b!A/%,X_5&%dnXP_;bK4r.M2eO%M;O;;+`&U.]=IgYUCn&6uFYS&5\6#ML[&q*7\N.$3VNHE[[$foHhhblR#/G'1-\fhg(F=ID=Y\H,!/3n*Md/;@sKQ&J5Te&J5Te&J5Te&J5Te&J5Te&J5Te&J5Te&J5V7)8.t(Ei$'F,"X:5$AoM/"G\T&&^GUjS1/EJ.9QV@Ms"R,D9ftk_/\In_P6>Y'"L>;jQ1J@g@6Ea7,/":h7u9aC&-nIW#5XQ$QK()*gdu(^o?j&*qerCHfrWcd7*0+qZd<3:1'gL%\H]I$U9a`q+$>SJ"2LhiF\cIMEaJ4IU>uf>GmG<oS(EVJSTbg'c<EJ]u'b9_I5eDdki%>>Ub1:)@=r-a,fEt))>`!o>G;):9ejsQ6JK6b&4Me6gUf=6+NNDoEAp\nS4AugBpAc-T*fM8j3.+#t6F!3XAJj?(W4?MC6q1f=G.E*(r,@K'Ht0,D+C3en7H%o2>+3j_I=>0Bq-aAS^4u"K/N*TnY#iFH1X0'#Q8Gr8Y?`"K*t(rH[X:nYi[f2P,4L+fjf^_.bGmGCW:,4B0XHUV`1[W:A&3?bUrTi&'T7(nJZ)l*N=nj(q162/1<eB/bP5=PqPA#+V8B\,;h:_DX)iWiPm2XWm5tfJD,P)1<,*r`U>J+7-8.JaUjuE=;`SWbNB+e20!j'3La*Mp[tpFrQpFcCCg0AT,0-^GdGHFp360WKZPRG67s'I;a*e-n1F$'g1:?E'3QC,\KpY*\T),'!1%[*u_[V@4N%Og,,^kUK70q.[A-g`<i8"fkI4H?j"=%+qDH1;VcLBVk]l8c/G0#keBr;LN-qaJNB8[rt;(A4P9:kK6qHF1Zat;lpC``YXmESG')?L2nJ\TpNLcSi&3j;\-a:k8@T=W"a_Gl"'=l!FuG3@6^*UqB?o\M@1nfZW3h.L,DT4CNA?I[KXG]hOYOY+8=VGRdl);/L.5'(g#Af(.d)+pV8dD@BFj.O'M`%t6RY/$Vr4AX^r03Z=WUeO$#YoH%LgLjiAAZuF&4JJ-@0u,ND!KR9YKjWg(Z7Se?mcO04&g]"AUX@I(SoM#jg0g?Ip8_U&:":CkKSAOKc^gk2U4Kcd>u!XM1g-hLU\#=@'o3oJ:H\M\cqV9u&77cN0q^2Yb(#jZh'o7Ec<?j0J8I]ZL1@0h%,^M[ggJ$(U#H/n/YkV4V3R5rAiA$CZG9$U>5,S@6HaK%&H$"8pdp-9I:FJ\h_7c2ulD:^*iBL"#l#;48rDaRF-d-leJ3Y#c9<$:Z$WI0kdL^"g?0UXS9`6%OouQ*a,*>@@TMeu&-N'hb%s%&iGKUD>F_-td=Gq+2Do5EN_gW1LSL'5SXLS#\:\:3bN_U1.7obRia+6t`%d^Js.f/3GrKj>bifn'WHmG8P>U<d<2jo>:p5r:1@9l*TRZOZHKZe&RW@_WcG^H//2sS9%mrA`gh.U?6ChK^+S7d"W9o#aAlkS30J&dogA8+YA\'M1oQJf")>"l@7iSo,#Ha#r7.if'pm>)#5,3X&LWinq`7@RI5390C4ugWPLb1=_F]tFI]"oL058"I1I>U%o,qC:3Z;`NIO#N=TrYE_2+?2Y;Gs(Nb<"8ACZFjqfAp+1eHI!#6t&1#92EnYj8PQghQ('@u93u?+^!LZoJ$D+,mIQg"f$i6\u;F_Uq7mD<[.]f\lD%Vg%,]:[mk+pGKCo!0ac^EUN^QZTiRT*@KJk^/p0'\YU$Q^^1L%M&7nd21GCu.DcaW_MQ=B'oH`P%7AB1eWTd*If;gNF;GW=2D%Z)n];VPR%#L:es2CYSpj]4N=1-Birk%%fTVJTSP(#(d8'fI&,HYam\)#gno_",Q\hYr.0`NikC%iqmX/pr>FaRBp7WQL8EkTbqtKkNnalGso[%S=E\8FlJs4VB#>hTH>X,`DF2s-X%u<5,m)s=/X9)kj/2ZgWF1]dC00dqFFT5Ja`YP;.:K9)B.sC=a&%/Vj&uT.#PY5*)_cTUho&hb"=#Vt1B2-Huceu2-6md*+`Mp#:Q+gpG3)1TD4G4dX]af^sM#CcQ71UE:MOLHI!U&M`5eW>(at,M"%3FCWm%@gtKkhBEniI]53C-e#iP4[G2BbhgD6[P#m5!_hg8BAtrK'0S\8=\_bZRa]A']pQ&p-IZ"k==d[;kd&NNX>O!).J,H/#M,')I[@,QrnLK9^SBO/>&l<52&M4mV+'U?+YK34Xc6A(,Ada\[Bd<6q";m!!r(3/&4f]?tVMY5m)ngoW:3eCBgGpGf(J3=[!7p%0*<&urRIDm#9c[fck)h0S_3ZoE3BI^=!oBW+T[aiP2g)QIjd@d6cQWW2b_)3+'X[,Yg42O.:mWeS:qVQJP*V/KBo2+V*4C4iZ@ga9nnX83MXfNf@3$JWQ':fdr`GoS1S*aa:IcZ#1H$/'ToPG-ht>`AUWOB%s&^m%0RNW1V%01ZfTfWh>ZTb-B'iHd7j:gI""P=f'9_jgl63TEHX.Nd[o:p[-U^^67)/\P9F"FAeWiYWS*^GdR2r/VkRT+'8*JQ#\)8_F"QF\s'D~>
+endstream
+endobj
+12 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 43
+/Subtype /Image
+/Type /XObject
+/Width 277
+/Length 3637
+>>
+stream
+Gb"/+$!1(r(B,I$)GS5.;%k=FN$gVAa35Dk&rk6j-rE7b!Du^':iHLNQ\`HX$DQM]EC3#X(-t2"'Eg?/2\_>o"9hZRH1Q/c].@8AcqVu^WUJX&l+2#pX7to8YO9*s*_MTGJ:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J3XqKYBO[KlmsP73ZOLM'c^iSm5r/;rG296@r*1+fK/rdI_c/R'm%$9]S"+^`[;Na/o'k=kiHcPkjS<\pf#'iVg[%J)P<GZ\om1L>C29bMEt8S)d]1:l'Y#o*&V5dldgU)XK*qTD1XqQ*rl^lf?1Zcs+<fQ?dt<;%%:kYF0SO_V&4(8i"pj@U:*hD8)V'McQ0FYH2ZHics]/aGT0Hf@?"Mk]Gj&R(+8GpM>DSu"THp7M2S*?fm>2\KT08U=ed8[fmI6l/*PWb[e=l1++a.rh>1buAX0[8VkH\N+d#<`cIo^SQ;uNBq?X`@d-mLX[gU4"FL:6nmVmc0kYhCS5p([P#^STh1*Lr,jQV(0G;NjOV!/^qcq!#BJM+D?3Z`.0THfZ:<f6i1k6-29h@""X46Mh)Kf_o3;JpAB-!h/T&K(;iFNF*e)p4\Q?aukCd#^iJ/mQX5oFVquOEk>U7HMVTEs>A*VpM1S$S.\Y$G.Zsj^t13K@7&464[8'p%d*WanXth9*0]?Uh.\bp;J=P>JD%rX6;"95F$5VoU#%%PoXo>BaJoJ.dH;1]s1YA;V02-B6\j\b=9ouMMOUJG,%8`M,noNg=k3WRXTU;+-MUMLV)s19?m,7Nj8c]a!^JErfJR1=+L.1B)Cs<c*NjBhDcc-T(I^_cd9?(i"7iA;UTisNm>oPkE?]u&,aGtA!E2#o^uG>*B6r'pRJ_7^0@Q/=IbfOTk>$0!s:^XJGGH+"2$.mGB?s!HhL[tV@eHXHE?N#m-I[I^l(CE^!P2NY"Y@omXcfB1H]m0b@n1CqCLmW?F_CE1]3l9/aQ_oX;;f?qInHmHc;gT?hq@+oKW.h7rt'R4O%[%V7EG!^9NND_i&'#d,ElmYG%i\`i\UCWU%,4s23N\FY3Q/%k0_c=A0Va.D539]a%*#HiG7XWHgG%\`6dKZRMlRZ17P:]O:4Wk41T85CYOlo2l!*-N2YHDq>+/ka;\#))`"M<t((K2<R/-2ZZIgTYkaUI7KpnN%6a\6YAGgOTZI__]lfu]RlAk522L%U%H1<qrOR6m,:_1gaF,1d0G7?_=TMZG_[Aqs,_UlIjoO!,+5aEXkbu5HouaA>C/Hr&KH'te>*U#X5G$\D7B/R3fH?rq+nKMLjH[.`ZUSPZX#)/5aFmda+!W`m.QiXhNgZ]o76XF7;\Ud]7U#oN@Y'hS2R;AH$s&H#<C,f(,!Mbprf0rBfBoc4bA^%Q`l>^L=585XTHq3<=JtS;GkCPnFV:MA`o.]7NW[PX4L8d\B4&rT[.7lSagXt_oJRnkY.t656(<FB&e&-+(TS]l6),^aKF]:qW/kVSY2UZb,`3CGr?o2PE_Oi%2^c`>k@i!PCJd+MAW/YgqBU=kd*5A4?X1h,KF>#W.p&,Sha>AdMPTKQ,3?j*+h,OH85ag(!@OMqG9j'kHYFpN+=R;3,I9I8pCt?msFg?VUVEf84R=J#_!ac8gV0"qB4N^'oD&YqaGW\?HOnBosYJf5(+kQqG?BS;r99VMJ^+l79]ai%%BAS]Va9@oKbc;O/&YJ;R7/G(%ic+QOKZ#Ld:t"YU'9blk_.'r7cWOIitKs=A3%YoL:SPIH[sQmsJ?e:m&W_77No!/R(sI)Df^IU$7il*ISK3WTb2.7rr.GmhSgiMP)ZF./Mj,7cYlUefE"dbQDn&J>:-hb)V$2nNV!2jRel(Ytc#Vk"um;__7\gH+k+`T6".R,L1;Z%N[^^]omSD"H5NW1:)SY`*'*\aR\%Go?`8?(tBLgW.7\LdB2Z-%h`0j6G<+8Oh.;`ijJ+%%-Y:%8>rP,i31]W>6e9'1^>cHi.792Y@c*><T[neHLEl(pOC].albH#>MHObKq6UM:5'3@6u/uUj9^,h['CQ;TD@4D<Q(F-ig"Pd7TE)>>GFqK)kK5As,eVe\'(oco?[a8h'aWer-27@S,]FC3.dAp(ObfM=DESeC7h`7jI(Jn*(dkXWI$S*V6,`'&b;_.Jj/GNo6\+.An<dnql+WqClV7b0<)$fBl1a='j"A/3Id7-jUY::b9/=)M`H'[V%7<LRf)?.9tVMt/cKl'g./hf20G'*oKddZr$UT8Y42-8Y,[3jPugj9pPl3Y4-6?NR`W,9e;VMn2?SAH#SKcK/j)<(5B+C6l%=k*P35:kB5ZGsZX3JRW1slW.bVb+<nC1:WfV2A./MkjE@P:`?GG(]OS^#t9nUf!dDnjfmI#8'kc(`_WhARt%rNH%r$+;,i%WX.LFo4@[?r^!-%5+][l[BCa#U?1<$bL#`5[U(1/>U;--\oq6MgKD>gaV*OJZfU[,a-WAFoobq#-*4f1Xm.V9d=dc(qiBo&]O`GhN/ncUok=nFZPToJrb'LEEBs54V%/IelU*9='Q+8ftJNNcE_S_Q&3(feY0';E[68=eSX8ajU[CP-RKe0B:u@h)b>^Bo2BPYu7Y5%-dJHh%5NG#6nD2rXT.l#5W5"Rq_,.rP9`PP\J_WDY`=]:!g*\WHd3/*0H=L)VN;[GT,fSSedN%qYDdikd05U,aiApk>>ABs,sbPoDrY&%`IPr3(,p87l!XSSj)5-39N8f<VURK[&dL.8DJZP*r8FmV#V.!EJ64tLks52\&`CM98<?/5o8tAc/0+;L%`J3O_/"LVm<bV_W[Y#V-)fjXeWK=!sgT$gD41=!#kdKU7nj>K_,:G"GP5:6!A=%hYlT&(.<r*:9LB\%Ye/Y/8qHo":-J(<($;WbTEf%W!+_P>J%(CPQZY&^"8Y5ZOJe24&MUceU".YRPj=SEA>a8qDe<V:`%P0<)4VK\1hF1gW`)rQt44c#Ia[TVQ9Z3Xts[q-hP6ss(_T%AWSP@4>*\-]l#A,+YiLp$DqT5=9L^)NI"mI_FmlGY2iDW.O$<B>%G]*^uZ7o,YLV!9bC6i1mt/q\CDNo0H)ClEfCPl@qX&'BPQf=G6j2Qc!SbfB3YGR;3u4X2D'>l?b@Angf%:MpiuLaA8\).'!BE@I3V7/BY9'#WBPH1\YFP#YE_:jShJTc()TH3Vj5g1.o'EjYOJ@?.WqQuRT%f6:t&jr:.b,eX'>Ek>e-bf5'2DkDR>:lcZ]"CQ+\*bPa0)^fEq5#ZnkkF]+4ET1cj4/KZZn!Fum(pg`_?BMD[HIC&NR[Qa`$SJc(!gf*@9d*T;VfK_:W^gH.I5c6]bto-E5'HEaD>;K#'5aee_V4>,dRU-hau8NQ&;YgU<0qFIV;#X6@;)nad4ci.,9`MJMWoJVJYV]O7kdG`iV5BfaB!!/WnP+\+G[QB`5(Vd4oiVF"B_HUL5TJLSiD=,PZ@+&]dSoE^&WfJLQd$d\n7nnDad2R(/hu9!R&mi8#PP="_Z.'2`KXXt=<$VE/Se$h9nr5E@6Z@V<^#Dq/as7d2.MPraVrZZm8kDPP;q(61^Fr)[=dN+<,j+1HP)s#_D,GGM6:@d6/MZ4<--skJ>s"XDM.b4[Rq_m-WF!!0~>
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F1-1 16 0 R
+/F2 9 0 R
+/F2-0 17 0 R
+>>
+/XObject <<
+/FormXob.00b37397b7964aebac797902dd994b65 11 0 R
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 9490
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+q
+118.6654 0 0 24.09449 42.51969 790.8661 cm
+/FormXob.00b37397b7964aebac797902dd994b65 Do
+Q
+.831373 .623529 .113725 RG
+1 w
+n 42.51969 783.7795 m 552.7559 783.7795 l S
+.835294 .870588 .882353 RG
+.5 w
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.396078 .458824 .490196 rg
+BT 1 0 0 1 42.51969 24.09449 Tm (QuantumNique Solutions Pvt Ltd | SQL Classroom Practice) Tj T* ET
+BT 1 0 0 1 529.9391 24.09449 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 747.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Practice Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 726.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (1. Salary Band Filtering and Ranking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 708.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Fundamentals - WHERE, BETWEEN, ORDER BY  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 676.4236 cm
+q
+BT 1 0 0 1 4 17.2 Tm 13.2 TL /F1 9.2 Tf .141176 .203922 .227451 rg (Display ) Tj /F2 9.2 Tf (emp_id, emp_name, salary) Tj /F1 9.2 Tf ( for employees whose salary is between 50,000 and 80,000 inclusive. Sort the) Tj T* (result by salary descending; when salaries are equal, sort by emp_name ascending.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 659.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 649.2236 cm
+Q
+q
+1 0 0 1 48.51969 628.2236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (2. Multi-Condition Employee Search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 611.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( WHERE - AND / OR / IN / NULL  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 578.6236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL -0.00841 Tw (Display employees who either belong to department 10 with salary above 55,000, or belong to department 20 with salary) Tj T* 0 Tw (at least 70,000. Exclude employees whose manager_id is NULL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 561.4236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, dept_id, salary, manager_id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 551.4236 cm
+Q
+q
+1 0 0 1 48.51969 530.4236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (3. Pattern Matching Challenge) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 513.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( LIKE - String Filtering  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 480.8236 cm
+q
+BT 1 0 0 1 4 17.2 Tm -0.109689 Tw 13.2 TL /F1 9.2 Tf .141176 .203922 .227451 rg (Find employees whose names contain the letter ) Tj /F2 9.2 Tf (a) Tj /F1 9.2 Tf ( anywhere after the first character and whose names do not end with ) Tj /F2 9.2 Tf (n) Tj /F1 9.2 Tf (.) Tj T* 0 Tw (Sort alphabetically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 463.6236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 453.6236 cm
+Q
+q
+1 0 0 1 48.51969 432.6236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (4. Conditional Salary Classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 415.4236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( CASE - Computed Columns  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 383.0236 cm
+q
+BT 1 0 0 1 4 17.2 Tm 13.2 TL /F1 9.2 Tf .141176 .203922 .227451 rg (Display every employee with a derived salary_band: ) Tj /F2 9.2 Tf (High) Tj /F1 9.2 Tf ( for salary >= 75,000, ) Tj /F2 9.2 Tf (Medium) Tj /F1 9.2 Tf ( for 55,000-74,999, and) Tj T* /F2 9.2 Tf (Standard) Tj /F1 9.2 Tf ( otherwise. Within each band, show higher salaries first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 365.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_name, salary, salary_band) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 355.8236 cm
+Q
+q
+1 0 0 1 48.51969 334.8236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (5. Department Salary Statistics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 317.6236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( GROUP BY - Aggregates  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 285.2236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (For each dept_id that has employees, display employee count, minimum salary, maximum salary, average salary, and) Tj T* (total salary. Show departments with the highest average salary first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 268.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( dept_id, employee_count, min_salary, max_salary, avg_salary, total_salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 258.0236 cm
+Q
+q
+1 0 0 1 48.51969 237.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (6. Strong Departments Only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 219.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( GROUP BY + HAVING  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium-Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 187.4236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Return departments from the employees table that have at least two employees and an average salary greater than) Tj T* (55,000.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 170.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( dept_id, employee_count, avg_salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 160.2236 cm
+Q
+q
+1 0 0 1 48.51969 139.2236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (7. Project Budget Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 122.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( GROUP BY + HAVING - Projects  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium-Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 89.62362 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (For each department represented in projects, calculate project count and total budget. Return only departments whose) Tj T* (total project budget is at least 300,000.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 72.42362 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( dept_id, project_count, total_budget) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 62.42362 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 786.6142 170.0787 34.01575 re
+f*
+q
+153.0709 0 0 23.7619 42.51969 790.3238 cm
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 Do
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 784.9134 175.748 37.41732 re
+f*
+q
+1 0 0 1 42.51969 788.5984 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[ ] 0 d
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+q
+0.027559 0 0 0.027559 0 0 cm
+q
+1 0 0 -1 0 1080 cm
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+746.38 645.15 m
+747.01 645.87 l
+747.07 645.78 747.12 645.69 747.18 645.57 c
+746.39 645.15 l
+h
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.113725 0.282353 0.317647 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+790.79 484.47 m
+790.79 543.11 774.92 598.12 747.17 645.58 c
+746.38 645.16 l
+709.6 625.69 l
+551.07 541.75 l
+561.9 525.23 568.18 505.56 568.18 484.47 c
+568.18 425.9 519.78 378.42 460.07 378.42 c
+400.36 378.42 351.94 425.9 351.94 484.47 c
+351.94 543.04 400.36 590.52 460.07 590.52 c
+471.03 590.52 481.62 588.91 491.59 585.94 c
+555.05 760.28 l
+566.47 791.67 l
+566.47 791.67 566.4 791.71 566.38 791.71 c
+533.02 802.82 497.26 808.83 460.07 808.83 c
+277.41 808.83 129.32 663.61 129.32 484.47 c
+129.32 305.33 277.4 160.09 460.07 160.09 c
+642.74 160.09 790.8 305.31 790.8 484.47 c
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+551.07 541.74 m
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+551.07 541.73 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+551.07 541.74 l
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+747.17 645.58 m
+747.11 645.69 747.06 645.78 747 645.88 c
+746.37 645.16 l
+747.16 645.58 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+852.98 767.57 m
+678.03 919.92 l
+600.05 830.37 l
+566.56 791.91 l
+566.47 791.67 l
+643.18 766.13 707.25 713.73 747.01 645.87 c
+775 678.01 l
+852.98 767.56 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+566.56 791.91 m
+566.38 791.71 l
+566.38 791.71 566.44 791.69 566.47 791.67 c
+566.56 791.91 l
+h
+f*
+Q
+Q
+Q
+Q
+Q
+0.811765 0.627451 0.180392 RG
+1 w
+n
+42.51969 783.7795 m
+552.7559 783.7795 l
+S
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 43
+/Subtype /Image
+/Type /XObject
+/Width 277
+/Length 3637
+>>
+stream
+Gb"/+$!1(r(B,I$)GS5.;%k=FN$gVAa35Dk&rk6j-rE7b!Du^':iHLNQ\`HX$DQM]EC3#X(-t2"'Eg?/2\_>o"9hZRH1Q/c].@8AcqVu^WUJX&l+2#pX7to8YO9*s*_MTGJ:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J3XqKYBO[KlmsP73ZOLM'c^iSm5r/;rG296@r*1+fK/rdI_c/R'm%$9]S"+^`[;Na/o'k=kiHcPkjS<\pf#'iVg[%J)P<GZ\om1L>C29bMEt8S)d]1:l'Y#o*&V5dldgU)XK*qTD1XqQ*rl^lf?1Zcs+<fQ?dt<;%%:kYF0SO_V&4(8i"pj@U:*hD8)V'McQ0FYH2ZHics]/aGT0Hf@?"Mk]Gj&R(+8GpM>DSu"THp7M2S*?fm>2\KT08U=ed8[fmI6l/*PWb[e=l1++a.rh>1buAX0[8VkH\N+d#<`cIo^SQ;uNBq?X`@d-mLX[gU4"FL:6nmVmc0kYhCS5p([P#^STh1*Lr,jQV(0G;NjOV!/^qcq!#BJM+D?3Z`.0THfZ:<f6i1k6-29h@""X46Mh)Kf_o3;JpAB-!h/T&K(;iFNF*e)p4\Q?aukCd#^iJ/mQX5oFVquOEk>U7HMVTEs>A*VpM1S$S.\Y$G.Zsj^t13K@7&464[8'p%d*WanXth9*0]?Uh.\bp;J=P>JD%rX6;"95F$5VoU#%%PoXo>BaJoJ.dH;1]s1YA;V02-B6\j\b=9ouMMOUJG,%8`M,noNg=k3WRXTU;+-MUMLV)s19?m,7Nj8c]a!^JErfJR1=+L.1B)Cs<c*NjBhDcc-T(I^_cd9?(i"7iA;UTisNm>oPkE?]u&,aGtA!E2#o^uG>*B6r'pRJ_7^0@Q/=IbfOTk>$0!s:^XJGGH+"2$.mGB?s!HhL[tV@eHXHE?N#m-I[I^l(CE^!P2NY"Y@omXcfB1H]m0b@n1CqCLmW?F_CE1]3l9/aQ_oX;;f?qInHmHc;gT?hq@+oKW.h7rt'R4O%[%V7EG!^9NND_i&'#d,ElmYG%i\`i\UCWU%,4s23N\FY3Q/%k0_c=A0Va.D539]a%*#HiG7XWHgG%\`6dKZRMlRZ17P:]O:4Wk41T85CYOlo2l!*-N2YHDq>+/ka;\#))`"M<t((K2<R/-2ZZIgTYkaUI7KpnN%6a\6YAGgOTZI__]lfu]RlAk522L%U%H1<qrOR6m,:_1gaF,1d0G7?_=TMZG_[Aqs,_UlIjoO!,+5aEXkbu5HouaA>C/Hr&KH'te>*U#X5G$\D7B/R3fH?rq+nKMLjH[.`ZUSPZX#)/5aFmda+!W`m.QiXhNgZ]o76XF7;\Ud]7U#oN@Y'hS2R;AH$s&H#<C,f(,!Mbprf0rBfBoc4bA^%Q`l>^L=585XTHq3<=JtS;GkCPnFV:MA`o.]7NW[PX4L8d\B4&rT[.7lSagXt_oJRnkY.t656(<FB&e&-+(TS]l6),^aKF]:qW/kVSY2UZb,`3CGr?o2PE_Oi%2^c`>k@i!PCJd+MAW/YgqBU=kd*5A4?X1h,KF>#W.p&,Sha>AdMPTKQ,3?j*+h,OH85ag(!@OMqG9j'kHYFpN+=R;3,I9I8pCt?msFg?VUVEf84R=J#_!ac8gV0"qB4N^'oD&YqaGW\?HOnBosYJf5(+kQqG?BS;r99VMJ^+l79]ai%%BAS]Va9@oKbc;O/&YJ;R7/G(%ic+QOKZ#Ld:t"YU'9blk_.'r7cWOIitKs=A3%YoL:SPIH[sQmsJ?e:m&W_77No!/R(sI)Df^IU$7il*ISK3WTb2.7rr.GmhSgiMP)ZF./Mj,7cYlUefE"dbQDn&J>:-hb)V$2nNV!2jRel(Ytc#Vk"um;__7\gH+k+`T6".R,L1;Z%N[^^]omSD"H5NW1:)SY`*'*\aR\%Go?`8?(tBLgW.7\LdB2Z-%h`0j6G<+8Oh.;`ijJ+%%-Y:%8>rP,i31]W>6e9'1^>cHi.792Y@c*><T[neHLEl(pOC].albH#>MHObKq6UM:5'3@6u/uUj9^,h['CQ;TD@4D<Q(F-ig"Pd7TE)>>GFqK)kK5As,eVe\'(oco?[a8h'aWer-27@S,]FC3.dAp(ObfM=DESeC7h`7jI(Jn*(dkXWI$S*V6,`'&b;_.Jj/GNo6\+.An<dnql+WqClV7b0<)$fBl1a='j"A/3Id7-jUY::b9/=)M`H'[V%7<LRf)?.9tVMt/cKl'g./hf20G'*oKddZr$UT8Y42-8Y,[3jPugj9pPl3Y4-6?NR`W,9e;VMn2?SAH#SKcK/j)<(5B+C6l%=k*P35:kB5ZGsZX3JRW1slW.bVb+<nC1:WfV2A./MkjE@P:`?GG(]OS^#t9nUf!dDnjfmI#8'kc(`_WhARt%rNH%r$+;,i%WX.LFo4@[?r^!-%5+][l[BCa#U?1<$bL#`5[U(1/>U;--\oq6MgKD>gaV*OJZfU[,a-WAFoobq#-*4f1Xm.V9d=dc(qiBo&]O`GhN/ncUok=nFZPToJrb'LEEBs54V%/IelU*9='Q+8ftJNNcE_S_Q&3(feY0';E[68=eSX8ajU[CP-RKe0B:u@h)b>^Bo2BPYu7Y5%-dJHh%5NG#6nD2rXT.l#5W5"Rq_,.rP9`PP\J_WDY`=]:!g*\WHd3/*0H=L)VN;[GT,fSSedN%qYDdikd05U,aiApk>>ABs,sbPoDrY&%`IPr3(,p87l!XSSj)5-39N8f<VURK[&dL.8DJZP*r8FmV#V.!EJ64tLks52\&`CM98<?/5o8tAc/0+;L%`J3O_/"LVm<bV_W[Y#V-)fjXeWK=!sgT$gD41=!#kdKU7nj>K_,:G"GP5:6!A=%hYlT&(.<r*:9LB\%Ye/Y/8qHo":-J(<($;WbTEf%W!+_P>J%(CPQZY&^"8Y5ZOJe24&MUceU".YRPj=SEA>a8qDe<V:`%P0<)4VK\1hF1gW`)rQt44c#Ia[TVQ9Z3Xts[q-hP6ss(_T%AWSP@4>*\-]l#A,+YiLp$DqT5=9L^)NI"mI_FmlGY2iDW.O$<B>%G]*^uZ7o,YLV!9bC6i1mt/q\CDNo0H)ClEfCPl@qX&'BPQf=G6j2Qc!SbfB3YGR;3u4X2D'>l?b@Angf%:MpiuLaA8\).'!BE@I3V7/BY9'#WBPH1\YFP#YE_:jShJTc()TH3Vj5g1.o'EjYOJ@?.WqQuRT%f6:t&jr:.b,eX'>Ek>e-bf5'2DkDR>:lcZ]"CQ+\*bPa0)^fEq5#ZnkkF]+4ET1cj4/KZZn!Fum(pg`_?BMD[HIC&NR[Qa`$SJc(!gf*@9d*T;VfK_:W^gH.I5c6]bto-E5'HEaD>;K#'5aee_V4>,dRU-hau8NQ&;YgU<0qFIV;#X6@;)nad4ci.,9`MJMWoJVJYV]O7kdG`iV5BfaB!!/WnP+\+G[QB`5(Vd4oiVF"B_HUL5TJLSiD=,PZ@+&]dSoE^&WfJLQd$d\n7nnDad2R(/hu9!R&mi8#PP="_Z.'2`KXXt=<$VE/Se$h9nr5E@6Z@V<^#Dq/as7d2.MPraVrZZm8kDPP;q(61^Fr)[=dN+<,j+1HP)s#_D,GGM6:@d6/MZ4<--skJ>s"XDM.b4[Rq_m-WF!!0~>
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F1-1 22 0 R
+/F2 9 0 R
+/F2-0 23 0 R
+>>
+/XObject <<
+/FormXob.00b37397b7964aebac797902dd994b65 11 0 R
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 24 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 9132
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+q
+118.6654 0 0 24.09449 42.51969 790.8661 cm
+/FormXob.00b37397b7964aebac797902dd994b65 Do
+Q
+.831373 .623529 .113725 RG
+1 w
+n 42.51969 783.7795 m 552.7559 783.7795 l S
+.835294 .870588 .882353 RG
+.5 w
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.396078 .458824 .490196 rg
+BT 1 0 0 1 42.51969 24.09449 Tm (QuantumNique Solutions Pvt Ltd | SQL Classroom Practice) Tj T* ET
+BT 1 0 0 1 529.9391 24.09449 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 751.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (8. Employee Department Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 733.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( INNER JOIN  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 701.4236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL -0.068434 Tw (Display each employee together with the department name and location. Include only employees whose salary is at least) Tj T* 0 Tw (60,000, ordered by department name and then salary descending.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 684.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, dept_name, location, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 674.2236 cm
+Q
+q
+1 0 0 1 48.51969 653.2236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (9. All Departments With Employee Counts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 636.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( LEFT JOIN + GROUP BY  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium-Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 603.6236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display every department, including departments with no employees, together with the number of employees in that) Tj T* (department. Departments with zero employees must appear.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 586.4236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( dept_id, dept_name, employee_count) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 576.4236 cm
+Q
+q
+1 0 0 1 48.51969 555.4236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (10. Employee and Manager Names) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 538.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( SELF JOIN  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium-Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 505.8236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display every employee who has a manager, together with the manager's name and both salaries. Sort by manager) Tj T* (name and then employee salary descending.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 488.6236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( employee_name, employee_salary, manager_name, manager_salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 478.6236 cm
+Q
+q
+1 0 0 1 48.51969 457.6236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (11. Department Project Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 440.4236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( LEFT JOIN - Multi-table Thinking  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium-Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 408.0236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display every department with its project count and total project budget. Departments without projects must still be) Tj T* (returned with a project count of 0.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 390.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( dept_id, dept_name, project_count, total_budget) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 380.8236 cm
+Q
+q
+1 0 0 1 48.51969 359.8236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (12. Employees in Project-Active Departments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 342.6236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Multi-table JOIN  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 310.2236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display employees who belong to departments that have at least one project. Include department name and project) Tj T* (name. An employee may appear more than once if the department owns multiple projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 293.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_name, dept_name, project_name, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 283.0236 cm
+Q
+q
+1 0 0 1 48.51969 262.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (13. Highest Paid Employee\(s\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 244.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Scalar Subquery  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 212.4236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display all employees whose salary equals the maximum salary in the employees table. The query must correctly return) Tj T* (all ties and must not use LIMIT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 195.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 185.2236 cm
+Q
+q
+1 0 0 1 48.51969 164.2236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (14. Employees Above Company Average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 147.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Scalar Subquery + AVG  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 114.6236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL -0.063099 Tw (Display employees whose salary is greater than the overall company average. Also return salary and sort from highest to) Tj T* 0 Tw (lowest.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 97.42362 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 87.42362 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 786.6142 170.0787 34.01575 re
+f*
+q
+153.0709 0 0 23.7619 42.51969 790.3238 cm
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 Do
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 784.9134 175.748 37.41732 re
+f*
+q
+1 0 0 1 42.51969 788.5984 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[ ] 0 d
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+q
+0.027559 0 0 0.027559 0 0 cm
+q
+1 0 0 -1 0 1080 cm
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+746.38 645.15 m
+747.01 645.87 l
+747.07 645.78 747.12 645.69 747.18 645.57 c
+746.39 645.15 l
+h
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.113725 0.282353 0.317647 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+790.79 484.47 m
+790.79 543.11 774.92 598.12 747.17 645.58 c
+746.38 645.16 l
+709.6 625.69 l
+551.07 541.75 l
+561.9 525.23 568.18 505.56 568.18 484.47 c
+568.18 425.9 519.78 378.42 460.07 378.42 c
+400.36 378.42 351.94 425.9 351.94 484.47 c
+351.94 543.04 400.36 590.52 460.07 590.52 c
+471.03 590.52 481.62 588.91 491.59 585.94 c
+555.05 760.28 l
+566.47 791.67 l
+566.47 791.67 566.4 791.71 566.38 791.71 c
+533.02 802.82 497.26 808.83 460.07 808.83 c
+277.41 808.83 129.32 663.61 129.32 484.47 c
+129.32 305.33 277.4 160.09 460.07 160.09 c
+642.74 160.09 790.8 305.31 790.8 484.47 c
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+551.07 541.74 m
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+551.07 541.73 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+551.07 541.74 l
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+747.17 645.58 m
+747.11 645.69 747.06 645.78 747 645.88 c
+746.37 645.16 l
+747.16 645.58 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+852.98 767.57 m
+678.03 919.92 l
+600.05 830.37 l
+566.56 791.91 l
+566.47 791.67 l
+643.18 766.13 707.25 713.73 747.01 645.87 c
+775 678.01 l
+852.98 767.56 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+566.56 791.91 m
+566.38 791.71 l
+566.38 791.71 566.44 791.69 566.47 791.67 c
+566.56 791.91 l
+h
+f*
+Q
+Q
+Q
+Q
+Q
+0.811765 0.627451 0.180392 RG
+1 w
+n
+42.51969 783.7795 m
+552.7559 783.7795 l
+S
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 43
+/Subtype /Image
+/Type /XObject
+/Width 277
+/Length 3637
+>>
+stream
+Gb"/+$!1(r(B,I$)GS5.;%k=FN$gVAa35Dk&rk6j-rE7b!Du^':iHLNQ\`HX$DQM]EC3#X(-t2"'Eg?/2\_>o"9hZRH1Q/c].@8AcqVu^WUJX&l+2#pX7to8YO9*s*_MTGJ:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J3XqKYBO[KlmsP73ZOLM'c^iSm5r/;rG296@r*1+fK/rdI_c/R'm%$9]S"+^`[;Na/o'k=kiHcPkjS<\pf#'iVg[%J)P<GZ\om1L>C29bMEt8S)d]1:l'Y#o*&V5dldgU)XK*qTD1XqQ*rl^lf?1Zcs+<fQ?dt<;%%:kYF0SO_V&4(8i"pj@U:*hD8)V'McQ0FYH2ZHics]/aGT0Hf@?"Mk]Gj&R(+8GpM>DSu"THp7M2S*?fm>2\KT08U=ed8[fmI6l/*PWb[e=l1++a.rh>1buAX0[8VkH\N+d#<`cIo^SQ;uNBq?X`@d-mLX[gU4"FL:6nmVmc0kYhCS5p([P#^STh1*Lr,jQV(0G;NjOV!/^qcq!#BJM+D?3Z`.0THfZ:<f6i1k6-29h@""X46Mh)Kf_o3;JpAB-!h/T&K(;iFNF*e)p4\Q?aukCd#^iJ/mQX5oFVquOEk>U7HMVTEs>A*VpM1S$S.\Y$G.Zsj^t13K@7&464[8'p%d*WanXth9*0]?Uh.\bp;J=P>JD%rX6;"95F$5VoU#%%PoXo>BaJoJ.dH;1]s1YA;V02-B6\j\b=9ouMMOUJG,%8`M,noNg=k3WRXTU;+-MUMLV)s19?m,7Nj8c]a!^JErfJR1=+L.1B)Cs<c*NjBhDcc-T(I^_cd9?(i"7iA;UTisNm>oPkE?]u&,aGtA!E2#o^uG>*B6r'pRJ_7^0@Q/=IbfOTk>$0!s:^XJGGH+"2$.mGB?s!HhL[tV@eHXHE?N#m-I[I^l(CE^!P2NY"Y@omXcfB1H]m0b@n1CqCLmW?F_CE1]3l9/aQ_oX;;f?qInHmHc;gT?hq@+oKW.h7rt'R4O%[%V7EG!^9NND_i&'#d,ElmYG%i\`i\UCWU%,4s23N\FY3Q/%k0_c=A0Va.D539]a%*#HiG7XWHgG%\`6dKZRMlRZ17P:]O:4Wk41T85CYOlo2l!*-N2YHDq>+/ka;\#))`"M<t((K2<R/-2ZZIgTYkaUI7KpnN%6a\6YAGgOTZI__]lfu]RlAk522L%U%H1<qrOR6m,:_1gaF,1d0G7?_=TMZG_[Aqs,_UlIjoO!,+5aEXkbu5HouaA>C/Hr&KH'te>*U#X5G$\D7B/R3fH?rq+nKMLjH[.`ZUSPZX#)/5aFmda+!W`m.QiXhNgZ]o76XF7;\Ud]7U#oN@Y'hS2R;AH$s&H#<C,f(,!Mbprf0rBfBoc4bA^%Q`l>^L=585XTHq3<=JtS;GkCPnFV:MA`o.]7NW[PX4L8d\B4&rT[.7lSagXt_oJRnkY.t656(<FB&e&-+(TS]l6),^aKF]:qW/kVSY2UZb,`3CGr?o2PE_Oi%2^c`>k@i!PCJd+MAW/YgqBU=kd*5A4?X1h,KF>#W.p&,Sha>AdMPTKQ,3?j*+h,OH85ag(!@OMqG9j'kHYFpN+=R;3,I9I8pCt?msFg?VUVEf84R=J#_!ac8gV0"qB4N^'oD&YqaGW\?HOnBosYJf5(+kQqG?BS;r99VMJ^+l79]ai%%BAS]Va9@oKbc;O/&YJ;R7/G(%ic+QOKZ#Ld:t"YU'9blk_.'r7cWOIitKs=A3%YoL:SPIH[sQmsJ?e:m&W_77No!/R(sI)Df^IU$7il*ISK3WTb2.7rr.GmhSgiMP)ZF./Mj,7cYlUefE"dbQDn&J>:-hb)V$2nNV!2jRel(Ytc#Vk"um;__7\gH+k+`T6".R,L1;Z%N[^^]omSD"H5NW1:)SY`*'*\aR\%Go?`8?(tBLgW.7\LdB2Z-%h`0j6G<+8Oh.;`ijJ+%%-Y:%8>rP,i31]W>6e9'1^>cHi.792Y@c*><T[neHLEl(pOC].albH#>MHObKq6UM:5'3@6u/uUj9^,h['CQ;TD@4D<Q(F-ig"Pd7TE)>>GFqK)kK5As,eVe\'(oco?[a8h'aWer-27@S,]FC3.dAp(ObfM=DESeC7h`7jI(Jn*(dkXWI$S*V6,`'&b;_.Jj/GNo6\+.An<dnql+WqClV7b0<)$fBl1a='j"A/3Id7-jUY::b9/=)M`H'[V%7<LRf)?.9tVMt/cKl'g./hf20G'*oKddZr$UT8Y42-8Y,[3jPugj9pPl3Y4-6?NR`W,9e;VMn2?SAH#SKcK/j)<(5B+C6l%=k*P35:kB5ZGsZX3JRW1slW.bVb+<nC1:WfV2A./MkjE@P:`?GG(]OS^#t9nUf!dDnjfmI#8'kc(`_WhARt%rNH%r$+;,i%WX.LFo4@[?r^!-%5+][l[BCa#U?1<$bL#`5[U(1/>U;--\oq6MgKD>gaV*OJZfU[,a-WAFoobq#-*4f1Xm.V9d=dc(qiBo&]O`GhN/ncUok=nFZPToJrb'LEEBs54V%/IelU*9='Q+8ftJNNcE_S_Q&3(feY0';E[68=eSX8ajU[CP-RKe0B:u@h)b>^Bo2BPYu7Y5%-dJHh%5NG#6nD2rXT.l#5W5"Rq_,.rP9`PP\J_WDY`=]:!g*\WHd3/*0H=L)VN;[GT,fSSedN%qYDdikd05U,aiApk>>ABs,sbPoDrY&%`IPr3(,p87l!XSSj)5-39N8f<VURK[&dL.8DJZP*r8FmV#V.!EJ64tLks52\&`CM98<?/5o8tAc/0+;L%`J3O_/"LVm<bV_W[Y#V-)fjXeWK=!sgT$gD41=!#kdKU7nj>K_,:G"GP5:6!A=%hYlT&(.<r*:9LB\%Ye/Y/8qHo":-J(<($;WbTEf%W!+_P>J%(CPQZY&^"8Y5ZOJe24&MUceU".YRPj=SEA>a8qDe<V:`%P0<)4VK\1hF1gW`)rQt44c#Ia[TVQ9Z3Xts[q-hP6ss(_T%AWSP@4>*\-]l#A,+YiLp$DqT5=9L^)NI"mI_FmlGY2iDW.O$<B>%G]*^uZ7o,YLV!9bC6i1mt/q\CDNo0H)ClEfCPl@qX&'BPQf=G6j2Qc!SbfB3YGR;3u4X2D'>l?b@Angf%:MpiuLaA8\).'!BE@I3V7/BY9'#WBPH1\YFP#YE_:jShJTc()TH3Vj5g1.o'EjYOJ@?.WqQuRT%f6:t&jr:.b,eX'>Ek>e-bf5'2DkDR>:lcZ]"CQ+\*bPa0)^fEq5#ZnkkF]+4ET1cj4/KZZn!Fum(pg`_?BMD[HIC&NR[Qa`$SJc(!gf*@9d*T;VfK_:W^gH.I5c6]bto-E5'HEaD>;K#'5aee_V4>,dRU-hau8NQ&;YgU<0qFIV;#X6@;)nad4ci.,9`MJMWoJVJYV]O7kdG`iV5BfaB!!/WnP+\+G[QB`5(Vd4oiVF"B_HUL5TJLSiD=,PZ@+&]dSoE^&WfJLQd$d\n7nnDad2R(/hu9!R&mi8#PP="_Z.'2`KXXt=<$VE/Se$h9nr5E@6Z@V<^#Dq/as7d2.MPraVrZZm8kDPP;q(61^Fr)[=dN+<,j+1HP)s#_D,GGM6:@d6/MZ4<--skJ>s"XDM.b4[Rq_m-WF!!0~>
+endstream
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F1-1 28 0 R
+/F2 9 0 R
+/F2-0 29 0 R
+>>
+/XObject <<
+/FormXob.00b37397b7964aebac797902dd994b65 11 0 R
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 30 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 8201
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+q
+118.6654 0 0 24.09449 42.51969 790.8661 cm
+/FormXob.00b37397b7964aebac797902dd994b65 Do
+Q
+.831373 .623529 .113725 RG
+1 w
+n 42.51969 783.7795 m 552.7559 783.7795 l S
+.835294 .870588 .882353 RG
+.5 w
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.396078 .458824 .490196 rg
+BT 1 0 0 1 42.51969 24.09449 Tm (QuantumNique Solutions Pvt Ltd | SQL Classroom Practice) Tj T* ET
+BT 1 0 0 1 529.9391 24.09449 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 751.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (15. Employees Above Their Department Average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 733.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Correlated Subquery  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 701.4236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display employees whose salary is greater than the average salary of their own department. Do not solve the) Tj T* (department comparison using a JOIN.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 684.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, dept_id, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 674.2236 cm
+Q
+q
+1 0 0 1 48.51969 653.2236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (16. Highest Paid Employee\(s\) Per Department) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 636.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Correlated Subquery + MAX  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 603.6236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Return the highest-paid employee or employees in every department. If multiple employees tie for the maximum salary) Tj T* (within a department, all must be returned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 586.4236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, dept_id, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 576.4236 cm
+Q
+q
+1 0 0 1 48.51969 555.4236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (17. Departments Without Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 538.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( NOT EXISTS  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Medium-Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 519.0236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 4 Tm /F1 9.2 Tf 13.2 TL (Display departments for which no row exists in the projects table. Use a subquery-based existence check.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 501.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( dept_id, dept_name, location) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 491.8236 cm
+Q
+q
+1 0 0 1 48.51969 470.8236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (18. Employees Earning More Than Every HR Employee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 453.6236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( ALL + Nested Subquery  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 421.2236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display employees whose salary is greater than the salary of every employee in the HR department. Obtain the HR) Tj T* (dept_id from the departments table rather than hard-coding it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 404.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 394.0236 cm
+Q
+q
+1 0 0 1 48.51969 373.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (19. Employees in Above-Average Departments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 355.8236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Nested Subqueries  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 323.4236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Display employees who belong to a department whose average employee salary is greater than the overall company) Tj T* (average salary. Use subqueries to identify the qualifying departments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 306.2236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, dept_id, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 296.2236 cm
+Q
+q
+1 0 0 1 48.51969 275.2236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 3.2 Tm /F2 10.8 Tf 14 TL (20. Employee\(s\) Closest to Company Average Salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 258.0236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Topic:) Tj /F1 8.1 Tf ( Advanced Nested Subqueries  ) Tj (  ) Tj /F2 8.1 Tf (Level:) Tj /F1 8.1 Tf ( Hard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 225.6236 cm
+q
+.141176 .203922 .227451 rg
+BT 1 0 0 1 4 17.2 Tm /F1 9.2 Tf 13.2 TL (Find the employee or employees whose salary has the smallest absolute difference from the overall company average) Tj T* (salary. Do not use ORDER BY ... LIMIT to choose the closest row. Ties must be preserved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 208.4236 cm
+q
+BT 1 0 0 1 0 3.1 Tm 11.2 TL /F2 8.1 Tf .396078 .458824 .490196 rg (Expected output columns:) Tj /F1 8.1 Tf ( emp_id, emp_name, salary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 198.4236 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 786.6142 170.0787 34.01575 re
+f*
+q
+153.0709 0 0 23.7619 42.51969 790.3238 cm
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 Do
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 784.9134 175.748 37.41732 re
+f*
+q
+1 0 0 1 42.51969 788.5984 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[ ] 0 d
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+q
+0.027559 0 0 0.027559 0 0 cm
+q
+1 0 0 -1 0 1080 cm
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+746.38 645.15 m
+747.01 645.87 l
+747.07 645.78 747.12 645.69 747.18 645.57 c
+746.39 645.15 l
+h
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.113725 0.282353 0.317647 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+790.79 484.47 m
+790.79 543.11 774.92 598.12 747.17 645.58 c
+746.38 645.16 l
+709.6 625.69 l
+551.07 541.75 l
+561.9 525.23 568.18 505.56 568.18 484.47 c
+568.18 425.9 519.78 378.42 460.07 378.42 c
+400.36 378.42 351.94 425.9 351.94 484.47 c
+351.94 543.04 400.36 590.52 460.07 590.52 c
+471.03 590.52 481.62 588.91 491.59 585.94 c
+555.05 760.28 l
+566.47 791.67 l
+566.47 791.67 566.4 791.71 566.38 791.71 c
+533.02 802.82 497.26 808.83 460.07 808.83 c
+277.41 808.83 129.32 663.61 129.32 484.47 c
+129.32 305.33 277.4 160.09 460.07 160.09 c
+642.74 160.09 790.8 305.31 790.8 484.47 c
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+551.07 541.74 m
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+551.07 541.73 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+551.07 541.74 l
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+747.17 645.58 m
+747.11 645.69 747.06 645.78 747 645.88 c
+746.37 645.16 l
+747.16 645.58 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+852.98 767.57 m
+678.03 919.92 l
+600.05 830.37 l
+566.56 791.91 l
+566.47 791.67 l
+643.18 766.13 707.25 713.73 747.01 645.87 c
+775 678.01 l
+852.98 767.56 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+566.56 791.91 m
+566.38 791.71 l
+566.38 791.71 566.44 791.69 566.47 791.67 c
+566.56 791.91 l
+h
+f*
+Q
+Q
+Q
+Q
+Q
+0.811765 0.627451 0.180392 RG
+1 w
+n
+42.51969 783.7795 m
+552.7559 783.7795 l
+S
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 43
+/Subtype /Image
+/Type /XObject
+/Width 277
+/Length 3637
+>>
+stream
+Gb"/+$!1(r(B,I$)GS5.;%k=FN$gVAa35Dk&rk6j-rE7b!Du^':iHLNQ\`HX$DQM]EC3#X(-t2"'Eg?/2\_>o"9hZRH1Q/c].@8AcqVu^WUJX&l+2#pX7to8YO9*s*_MTGJ:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J3XqKYBO[KlmsP73ZOLM'c^iSm5r/;rG296@r*1+fK/rdI_c/R'm%$9]S"+^`[;Na/o'k=kiHcPkjS<\pf#'iVg[%J)P<GZ\om1L>C29bMEt8S)d]1:l'Y#o*&V5dldgU)XK*qTD1XqQ*rl^lf?1Zcs+<fQ?dt<;%%:kYF0SO_V&4(8i"pj@U:*hD8)V'McQ0FYH2ZHics]/aGT0Hf@?"Mk]Gj&R(+8GpM>DSu"THp7M2S*?fm>2\KT08U=ed8[fmI6l/*PWb[e=l1++a.rh>1buAX0[8VkH\N+d#<`cIo^SQ;uNBq?X`@d-mLX[gU4"FL:6nmVmc0kYhCS5p([P#^STh1*Lr,jQV(0G;NjOV!/^qcq!#BJM+D?3Z`.0THfZ:<f6i1k6-29h@""X46Mh)Kf_o3;JpAB-!h/T&K(;iFNF*e)p4\Q?aukCd#^iJ/mQX5oFVquOEk>U7HMVTEs>A*VpM1S$S.\Y$G.Zsj^t13K@7&464[8'p%d*WanXth9*0]?Uh.\bp;J=P>JD%rX6;"95F$5VoU#%%PoXo>BaJoJ.dH;1]s1YA;V02-B6\j\b=9ouMMOUJG,%8`M,noNg=k3WRXTU;+-MUMLV)s19?m,7Nj8c]a!^JErfJR1=+L.1B)Cs<c*NjBhDcc-T(I^_cd9?(i"7iA;UTisNm>oPkE?]u&,aGtA!E2#o^uG>*B6r'pRJ_7^0@Q/=IbfOTk>$0!s:^XJGGH+"2$.mGB?s!HhL[tV@eHXHE?N#m-I[I^l(CE^!P2NY"Y@omXcfB1H]m0b@n1CqCLmW?F_CE1]3l9/aQ_oX;;f?qInHmHc;gT?hq@+oKW.h7rt'R4O%[%V7EG!^9NND_i&'#d,ElmYG%i\`i\UCWU%,4s23N\FY3Q/%k0_c=A0Va.D539]a%*#HiG7XWHgG%\`6dKZRMlRZ17P:]O:4Wk41T85CYOlo2l!*-N2YHDq>+/ka;\#))`"M<t((K2<R/-2ZZIgTYkaUI7KpnN%6a\6YAGgOTZI__]lfu]RlAk522L%U%H1<qrOR6m,:_1gaF,1d0G7?_=TMZG_[Aqs,_UlIjoO!,+5aEXkbu5HouaA>C/Hr&KH'te>*U#X5G$\D7B/R3fH?rq+nKMLjH[.`ZUSPZX#)/5aFmda+!W`m.QiXhNgZ]o76XF7;\Ud]7U#oN@Y'hS2R;AH$s&H#<C,f(,!Mbprf0rBfBoc4bA^%Q`l>^L=585XTHq3<=JtS;GkCPnFV:MA`o.]7NW[PX4L8d\B4&rT[.7lSagXt_oJRnkY.t656(<FB&e&-+(TS]l6),^aKF]:qW/kVSY2UZb,`3CGr?o2PE_Oi%2^c`>k@i!PCJd+MAW/YgqBU=kd*5A4?X1h,KF>#W.p&,Sha>AdMPTKQ,3?j*+h,OH85ag(!@OMqG9j'kHYFpN+=R;3,I9I8pCt?msFg?VUVEf84R=J#_!ac8gV0"qB4N^'oD&YqaGW\?HOnBosYJf5(+kQqG?BS;r99VMJ^+l79]ai%%BAS]Va9@oKbc;O/&YJ;R7/G(%ic+QOKZ#Ld:t"YU'9blk_.'r7cWOIitKs=A3%YoL:SPIH[sQmsJ?e:m&W_77No!/R(sI)Df^IU$7il*ISK3WTb2.7rr.GmhSgiMP)ZF./Mj,7cYlUefE"dbQDn&J>:-hb)V$2nNV!2jRel(Ytc#Vk"um;__7\gH+k+`T6".R,L1;Z%N[^^]omSD"H5NW1:)SY`*'*\aR\%Go?`8?(tBLgW.7\LdB2Z-%h`0j6G<+8Oh.;`ijJ+%%-Y:%8>rP,i31]W>6e9'1^>cHi.792Y@c*><T[neHLEl(pOC].albH#>MHObKq6UM:5'3@6u/uUj9^,h['CQ;TD@4D<Q(F-ig"Pd7TE)>>GFqK)kK5As,eVe\'(oco?[a8h'aWer-27@S,]FC3.dAp(ObfM=DESeC7h`7jI(Jn*(dkXWI$S*V6,`'&b;_.Jj/GNo6\+.An<dnql+WqClV7b0<)$fBl1a='j"A/3Id7-jUY::b9/=)M`H'[V%7<LRf)?.9tVMt/cKl'g./hf20G'*oKddZr$UT8Y42-8Y,[3jPugj9pPl3Y4-6?NR`W,9e;VMn2?SAH#SKcK/j)<(5B+C6l%=k*P35:kB5ZGsZX3JRW1slW.bVb+<nC1:WfV2A./MkjE@P:`?GG(]OS^#t9nUf!dDnjfmI#8'kc(`_WhARt%rNH%r$+;,i%WX.LFo4@[?r^!-%5+][l[BCa#U?1<$bL#`5[U(1/>U;--\oq6MgKD>gaV*OJZfU[,a-WAFoobq#-*4f1Xm.V9d=dc(qiBo&]O`GhN/ncUok=nFZPToJrb'LEEBs54V%/IelU*9='Q+8ftJNNcE_S_Q&3(feY0';E[68=eSX8ajU[CP-RKe0B:u@h)b>^Bo2BPYu7Y5%-dJHh%5NG#6nD2rXT.l#5W5"Rq_,.rP9`PP\J_WDY`=]:!g*\WHd3/*0H=L)VN;[GT,fSSedN%qYDdikd05U,aiApk>>ABs,sbPoDrY&%`IPr3(,p87l!XSSj)5-39N8f<VURK[&dL.8DJZP*r8FmV#V.!EJ64tLks52\&`CM98<?/5o8tAc/0+;L%`J3O_/"LVm<bV_W[Y#V-)fjXeWK=!sgT$gD41=!#kdKU7nj>K_,:G"GP5:6!A=%hYlT&(.<r*:9LB\%Ye/Y/8qHo":-J(<($;WbTEf%W!+_P>J%(CPQZY&^"8Y5ZOJe24&MUceU".YRPj=SEA>a8qDe<V:`%P0<)4VK\1hF1gW`)rQt44c#Ia[TVQ9Z3Xts[q-hP6ss(_T%AWSP@4>*\-]l#A,+YiLp$DqT5=9L^)NI"mI_FmlGY2iDW.O$<B>%G]*^uZ7o,YLV!9bC6i1mt/q\CDNo0H)ClEfCPl@qX&'BPQf=G6j2Qc!SbfB3YGR;3u4X2D'>l?b@Angf%:MpiuLaA8\).'!BE@I3V7/BY9'#WBPH1\YFP#YE_:jShJTc()TH3Vj5g1.o'EjYOJ@?.WqQuRT%f6:t&jr:.b,eX'>Ek>e-bf5'2DkDR>:lcZ]"CQ+\*bPa0)^fEq5#ZnkkF]+4ET1cj4/KZZn!Fum(pg`_?BMD[HIC&NR[Qa`$SJc(!gf*@9d*T;VfK_:W^gH.I5c6]bto-E5'HEaD>;K#'5aee_V4>,dRU-hau8NQ&;YgU<0qFIV;#X6@;)nad4ci.,9`MJMWoJVJYV]O7kdG`iV5BfaB!!/WnP+\+G[QB`5(Vd4oiVF"B_HUL5TJLSiD=,PZ@+&]dSoE^&WfJLQd$d\n7nnDad2R(/hu9!R&mi8#PP="_Z.'2`KXXt=<$VE/Se$h9nr5E@6Z@V<^#Dq/as7d2.MPraVrZZm8kDPP;q(61^Fr)[=dN+<,j+1HP)s#_D,GGM6:@d6/MZ4<--skJ>s"XDM.b4[Rq_m-WF!!0~>
+endstream
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 33 0 R
+/F1-1 34 0 R
+/F2 9 0 R
+/F2-0 35 0 R
+>>
+/XObject <<
+/FormXob.00b37397b7964aebac797902dd994b65 11 0 R
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 36 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 6166
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+q
+118.6654 0 0 24.09449 42.51969 790.8661 cm
+/FormXob.00b37397b7964aebac797902dd994b65 Do
+Q
+.831373 .623529 .113725 RG
+1 w
+n 42.51969 783.7795 m 552.7559 783.7795 l S
+.835294 .870588 .882353 RG
+.5 w
+n 42.51969 36.85039 m 552.7559 36.85039 l S
+BT /F1 7.2 Tf 8.64 TL ET
+.396078 .458824 .490196 rg
+BT 1 0 0 1 42.51969 24.09449 Tm (QuantumNique Solutions Pvt Ltd | SQL Classroom Practice) Tj T* ET
+BT 1 0 0 1 529.9391 24.09449 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 48.51969 747.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Coverage Map) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 600.0236 cm
+q
+.117647 .337255 .376471 rg
+n 0 140 481.8898 -20 re f*
+1 1 1 rg
+n 0 120 481.8898 -20 re f*
+.968627 .980392 .980392 rg
+n 0 100 481.8898 -20 re f*
+1 1 1 rg
+n 0 80 481.8898 -20 re f*
+.968627 .980392 .980392 rg
+n 0 60 481.8898 -20 re f*
+1 1 1 rg
+n 0 40 481.8898 -20 re f*
+.968627 .980392 .980392 rg
+n 0 20 481.8898 -20 re f*
+1 1 1 rg
+BT /F2 8.3 Tf 12 TL ET
+BT 1 0 0 1 4 127.7 Tm (Questions) Tj T* ET
+BT 1 0 0 1 94.70866 127.7 Tm (Coverage) Tj T* ET
+0 0 0 rg
+BT /F1 8.3 Tf 12 TL ET
+BT 1 0 0 1 4 107.7 Tm (1-4) Tj T* ET
+BT 1 0 0 1 94.70866 107.7 Tm (SELECT, WHERE, BETWEEN, IN, NULL handling, LIKE, ORDER BY, CASE) Tj T* ET
+BT 1 0 0 1 4 87.7 Tm (5-7) Tj T* ET
+BT 1 0 0 1 94.70866 87.7 Tm (COUNT, MIN, MAX, AVG, SUM, GROUP BY, HAVING) Tj T* ET
+BT 1 0 0 1 4 67.7 Tm (8-12) Tj T* ET
+BT 1 0 0 1 94.70866 67.7 Tm (INNER JOIN, LEFT JOIN, SELF JOIN, multi-table joins, grouped joins) Tj T* ET
+BT 1 0 0 1 4 47.7 Tm (13-14) Tj T* ET
+BT 1 0 0 1 94.70866 47.7 Tm (Scalar subqueries and aggregate subqueries) Tj T* ET
+BT 1 0 0 1 4 27.7 Tm (15-17) Tj T* ET
+BT 1 0 0 1 94.70866 27.7 Tm (Correlated subqueries, MAX per group, NOT EXISTS) Tj T* ET
+BT 1 0 0 1 4 7.7 Tm (18-20) Tj T* ET
+BT 1 0 0 1 94.70866 7.7 Tm (ALL, nested subqueries, group-vs-company comparisons, advanced nested aggregation) Tj T* ET
+q
+1 J
+1 j
+.737255 .784314 .8 RG
+.45 w
+n 0 140 m 481.8898 140 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 140 l S
+n 481.8898 0 m 481.8898 140 l S
+n 0 120 m 481.8898 120 l S
+n 0 100 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 90.70866 0 m 90.70866 140 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 595.0236 cm
+Q
+q
+1 0 0 1 48.51969 569.0236 cm
+q
+.117647 .337255 .376471 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Student Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 548.8236 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (1.) Tj /F1 9.2 Tf ( Use MySQL-compatible SQL syntax.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 529.6236 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (2.) Tj /F1 9.2 Tf ( Do not hard-code department IDs when a question explicitly asks you to derive the department by name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 510.4236 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (3.) Tj /F1 9.2 Tf ( Preserve ties in maximum, minimum, and closest-value questions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 491.2236 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (4.) Tj /F1 9.2 Tf ( For Questions 15-20, use the requested subquery approach rather than replacing it with a JOIN or LIMIT shortcut.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 472.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (5.) Tj /F1 9.2 Tf ( Aliases are encouraged where they improve readability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 452.8236 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F2 9.2 Tf .141176 .203922 .227451 rg (6.) Tj /F1 9.2 Tf ( Before executing a complex query, verify the intermediate result: grouped result, joined result, or inner subquery result.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 786.6142 170.0787 34.01575 re
+f*
+q
+153.0709 0 0 23.7619 42.51969 790.3238 cm
+/FormXob.2ffe430534ef67fa1475f818b3d9c539 Do
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.85039 784.9134 175.748 37.41732 re
+f*
+q
+1 0 0 1 42.51969 788.5984 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[ ] 0 d
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+q
+0.027559 0 0 0.027559 0 0 cm
+q
+1 0 0 -1 0 1080 cm
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+746.38 645.15 m
+747.01 645.87 l
+747.07 645.78 747.12 645.69 747.18 645.57 c
+746.39 645.15 l
+h
+457.46 492.18 m
+491.58 585.94 l
+516.36 578.54 537.36 562.65 551.07 541.75 c
+457.46 492.19 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.113725 0.282353 0.317647 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+790.79 484.47 m
+790.79 543.11 774.92 598.12 747.17 645.58 c
+746.38 645.16 l
+709.6 625.69 l
+551.07 541.75 l
+561.9 525.23 568.18 505.56 568.18 484.47 c
+568.18 425.9 519.78 378.42 460.07 378.42 c
+400.36 378.42 351.94 425.9 351.94 484.47 c
+351.94 543.04 400.36 590.52 460.07 590.52 c
+471.03 590.52 481.62 588.91 491.59 585.94 c
+555.05 760.28 l
+566.47 791.67 l
+566.47 791.67 566.4 791.71 566.38 791.71 c
+533.02 802.82 497.26 808.83 460.07 808.83 c
+277.41 808.83 129.32 663.61 129.32 484.47 c
+129.32 305.33 277.4 160.09 460.07 160.09 c
+642.74 160.09 790.8 305.31 790.8 484.47 c
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+551.07 541.74 m
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+551.07 541.73 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+457.46 492.18 m
+551.07 541.74 l
+537.36 562.65 516.36 578.53 491.58 585.93 c
+457.46 492.17 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+747.17 645.58 m
+747.11 645.69 747.06 645.78 747 645.88 c
+746.37 645.16 l
+747.16 645.58 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0.811765 0.627451 0.180392 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+852.98 767.57 m
+678.03 919.92 l
+600.05 830.37 l
+566.56 791.91 l
+566.47 791.67 l
+643.18 766.13 707.25 713.73 747.01 645.87 c
+775 678.01 l
+852.98 767.56 l
+h
+f*
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+1 w
+0 J
+0 j
+[ ] 0 d
+n
+566.56 791.91 m
+566.38 791.71 l
+566.38 791.71 566.44 791.69 566.47 791.67 c
+566.56 791.91 l
+h
+f*
+Q
+Q
+Q
+Q
+Q
+0.811765 0.627451 0.180392 RG
+1 w
+n
+42.51969 783.7795 m
+552.7559 783.7795 l
+S
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 43
+/Subtype /Image
+/Type /XObject
+/Width 277
+/Length 3637
+>>
+stream
+Gb"/+$!1(r(B,I$)GS5.;%k=FN$gVAa35Dk&rk6j-rE7b!Du^':iHLNQ\`HX$DQM]EC3#X(-t2"'Eg?/2\_>o"9hZRH1Q/c].@8AcqVu^WUJX&l+2#pX7to8YO9*s*_MTGJ:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J:N0#J3XqKYBO[KlmsP73ZOLM'c^iSm5r/;rG296@r*1+fK/rdI_c/R'm%$9]S"+^`[;Na/o'k=kiHcPkjS<\pf#'iVg[%J)P<GZ\om1L>C29bMEt8S)d]1:l'Y#o*&V5dldgU)XK*qTD1XqQ*rl^lf?1Zcs+<fQ?dt<;%%:kYF0SO_V&4(8i"pj@U:*hD8)V'McQ0FYH2ZHics]/aGT0Hf@?"Mk]Gj&R(+8GpM>DSu"THp7M2S*?fm>2\KT08U=ed8[fmI6l/*PWb[e=l1++a.rh>1buAX0[8VkH\N+d#<`cIo^SQ;uNBq?X`@d-mLX[gU4"FL:6nmVmc0kYhCS5p([P#^STh1*Lr,jQV(0G;NjOV!/^qcq!#BJM+D?3Z`.0THfZ:<f6i1k6-29h@""X46Mh)Kf_o3;JpAB-!h/T&K(;iFNF*e)p4\Q?aukCd#^iJ/mQX5oFVquOEk>U7HMVTEs>A*VpM1S$S.\Y$G.Zsj^t13K@7&464[8'p%d*WanXth9*0]?Uh.\bp;J=P>JD%rX6;"95F$5VoU#%%PoXo>BaJoJ.dH;1]s1YA;V02-B6\j\b=9ouMMOUJG,%8`M,noNg=k3WRXTU;+-MUMLV)s19?m,7Nj8c]a!^JErfJR1=+L.1B)Cs<c*NjBhDcc-T(I^_cd9?(i"7iA;UTisNm>oPkE?]u&,aGtA!E2#o^uG>*B6r'pRJ_7^0@Q/=IbfOTk>$0!s:^XJGGH+"2$.mGB?s!HhL[tV@eHXHE?N#m-I[I^l(CE^!P2NY"Y@omXcfB1H]m0b@n1CqCLmW?F_CE1]3l9/aQ_oX;;f?qInHmHc;gT?hq@+oKW.h7rt'R4O%[%V7EG!^9NND_i&'#d,ElmYG%i\`i\UCWU%,4s23N\FY3Q/%k0_c=A0Va.D539]a%*#HiG7XWHgG%\`6dKZRMlRZ17P:]O:4Wk41T85CYOlo2l!*-N2YHDq>+/ka;\#))`"M<t((K2<R/-2ZZIgTYkaUI7KpnN%6a\6YAGgOTZI__]lfu]RlAk522L%U%H1<qrOR6m,:_1gaF,1d0G7?_=TMZG_[Aqs,_UlIjoO!,+5aEXkbu5HouaA>C/Hr&KH'te>*U#X5G$\D7B/R3fH?rq+nKMLjH[.`ZUSPZX#)/5aFmda+!W`m.QiXhNgZ]o76XF7;\Ud]7U#oN@Y'hS2R;AH$s&H#<C,f(,!Mbprf0rBfBoc4bA^%Q`l>^L=585XTHq3<=JtS;GkCPnFV:MA`o.]7NW[PX4L8d\B4&rT[.7lSagXt_oJRnkY.t656(<FB&e&-+(TS]l6),^aKF]:qW/kVSY2UZb,`3CGr?o2PE_Oi%2^c`>k@i!PCJd+MAW/YgqBU=kd*5A4?X1h,KF>#W.p&,Sha>AdMPTKQ,3?j*+h,OH85ag(!@OMqG9j'kHYFpN+=R;3,I9I8pCt?msFg?VUVEf84R=J#_!ac8gV0"qB4N^'oD&YqaGW\?HOnBosYJf5(+kQqG?BS;r99VMJ^+l79]ai%%BAS]Va9@oKbc;O/&YJ;R7/G(%ic+QOKZ#Ld:t"YU'9blk_.'r7cWOIitKs=A3%YoL:SPIH[sQmsJ?e:m&W_77No!/R(sI)Df^IU$7il*ISK3WTb2.7rr.GmhSgiMP)ZF./Mj,7cYlUefE"dbQDn&J>:-hb)V$2nNV!2jRel(Ytc#Vk"um;__7\gH+k+`T6".R,L1;Z%N[^^]omSD"H5NW1:)SY`*'*\aR\%Go?`8?(tBLgW.7\LdB2Z-%h`0j6G<+8Oh.;`ijJ+%%-Y:%8>rP,i31]W>6e9'1^>cHi.792Y@c*><T[neHLEl(pOC].albH#>MHObKq6UM:5'3@6u/uUj9^,h['CQ;TD@4D<Q(F-ig"Pd7TE)>>GFqK)kK5As,eVe\'(oco?[a8h'aWer-27@S,]FC3.dAp(ObfM=DESeC7h`7jI(Jn*(dkXWI$S*V6,`'&b;_.Jj/GNo6\+.An<dnql+WqClV7b0<)$fBl1a='j"A/3Id7-jUY::b9/=)M`H'[V%7<LRf)?.9tVMt/cKl'g./hf20G'*oKddZr$UT8Y42-8Y,[3jPugj9pPl3Y4-6?NR`W,9e;VMn2?SAH#SKcK/j)<(5B+C6l%=k*P35:kB5ZGsZX3JRW1slW.bVb+<nC1:WfV2A./MkjE@P:`?GG(]OS^#t9nUf!dDnjfmI#8'kc(`_WhARt%rNH%r$+;,i%WX.LFo4@[?r^!-%5+][l[BCa#U?1<$bL#`5[U(1/>U;--\oq6MgKD>gaV*OJZfU[,a-WAFoobq#-*4f1Xm.V9d=dc(qiBo&]O`GhN/ncUok=nFZPToJrb'LEEBs54V%/IelU*9='Q+8ftJNNcE_S_Q&3(feY0';E[68=eSX8ajU[CP-RKe0B:u@h)b>^Bo2BPYu7Y5%-dJHh%5NG#6nD2rXT.l#5W5"Rq_,.rP9`PP\J_WDY`=]:!g*\WHd3/*0H=L)VN;[GT,fSSedN%qYDdikd05U,aiApk>>ABs,sbPoDrY&%`IPr3(,p87l!XSSj)5-39N8f<VURK[&dL.8DJZP*r8FmV#V.!EJ64tLks52\&`CM98<?/5o8tAc/0+;L%`J3O_/"LVm<bV_W[Y#V-)fjXeWK=!sgT$gD41=!#kdKU7nj>K_,:G"GP5:6!A=%hYlT&(.<r*:9LB\%Ye/Y/8qHo":-J(<($;WbTEf%W!+_P>J%(CPQZY&^"8Y5ZOJe24&MUceU".YRPj=SEA>a8qDe<V:`%P0<)4VK\1hF1gW`)rQt44c#Ia[TVQ9Z3Xts[q-hP6ss(_T%AWSP@4>*\-]l#A,+YiLp$DqT5=9L^)NI"mI_FmlGY2iDW.O$<B>%G]*^uZ7o,YLV!9bC6i1mt/q\CDNo0H)ClEfCPl@qX&'BPQf=G6j2Qc!SbfB3YGR;3u4X2D'>l?b@Angf%:MpiuLaA8\).'!BE@I3V7/BY9'#WBPH1\YFP#YE_:jShJTc()TH3Vj5g1.o'EjYOJ@?.WqQuRT%f6:t&jr:.b,eX'>Ek>e-bf5'2DkDR>:lcZ]"CQ+\*bPa0)^fEq5#ZnkkF]+4ET1cj4/KZZn!Fum(pg`_?BMD[HIC&NR[Qa`$SJc(!gf*@9d*T;VfK_:W^gH.I5c6]bto-E5'HEaD>;K#'5aee_V4>,dRU-hau8NQ&;YgU<0qFIV;#X6@;)nad4ci.,9`MJMWoJVJYV]O7kdG`iV5BfaB!!/WnP+\+G[QB`5(Vd4oiVF"B_HUL5TJLSiD=,PZ@+&]dSoE^&WfJLQd$d\n7nnDad2R(/hu9!R&mi8#PP="_Z.'2`KXXt=<$VE/Se$h9nr5E@6Z@V<^#Dq/as7d2.MPraVrZZm8kDPP;q(61^Fr)[=dN+<,j+1HP)s#_D,GGM6:@d6/MZ4<--skJ>s"XDM.b4[Rq_m-WF!!0~>
+endstream
+endobj
+xref
+0 37
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000571 00000 n 
+0000011637 00000 n 
+0000011744 00000 n 
+0000011851 00000 n 
+0000011958 00000 n 
+0000012070 00000 n 
+0000012180 00000 n 
+0000014911 00000 n 
+0000018737 00000 n 
+0000019122 00000 n 
+0000028665 00000 n 
+0000028773 00000 n 
+0000028881 00000 n 
+0000028991 00000 n 
+0000032817 00000 n 
+0000033202 00000 n 
+0000042387 00000 n 
+0000042495 00000 n 
+0000042603 00000 n 
+0000042713 00000 n 
+0000046539 00000 n 
+0000046924 00000 n 
+0000055178 00000 n 
+0000055286 00000 n 
+0000055394 00000 n 
+0000055504 00000 n 
+0000059330 00000 n 
+0000059715 00000 n 
+0000065934 00000 n 
+0000066042 00000 n 
+0000066150 00000 n 
+0000066260 00000 n 
+trailer
+<<
+/Size 37
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+70086
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [38 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 38 0 R] >> >> >>
+endobj
+37 0 obj
+<< /Length 20166 /F << /Subtype (application/c2pa) /Length 20166 >> >>
+stream
+  N∆jumb   jumdc2pa  Ä  ™ 8õqc2pa   N†jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:2ebd72e3-3945-4557-a282-c2e41467d38c   êjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+   jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    œcbor°gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameggpt-5-6gversionggpt-5-6dwhenx2026-08-25T16:18:09.930617Z   ¶jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    vcbor•jexclusionsÅ¢estart ◊flengthN∆dnamenjumbf manifestcalgfsha256dhashX Ã¬òd+ùx;ó…ƒ)ª÷Ñ€˚	z>©}Ó¬Ü'ùmcpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:48b8603c-86ee-40bb-ba82-9c064ac36526tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:2ebd72e3-3945-4557-a282-c2e41467d38c/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX °¸MÁ‚‡n:¡ô“ö∫5‰è e{(,I‡˜™Vq¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX æ%Y1öB˚á–Tœ€â∆ÅM™Gh~83 Ä+d∂˘9˙hdc:titleiimage.pdfcalgfsha256  @8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   @cbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı°cpadY3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ˆY TiykÇs£Kµp†òsj4¥€ﬂÆ§1‘˙Îπ—Y©#ÒtïK–¸“U’‚8o
+Ô˚ﬁõ¥“éEˇ+Ã’©—U‡Ap…"ˇÿ⁄Ä#áúºÌZ¢ù˙7¨≠f*Cq`◊( WèÓ‰©büYÛÓH€!>êtﬁË¶íÃ‹…¶◊æ”.Ã€È‡·Ï
+â^Qúia∂v.}Ø«%T]∂>äG@ÚºËÿ˚:é] 1Abœ=iÈ±TXwŒ∫FÎ¡‡«^Ò[<∑b3Ú&éaüe+gÔòﬂÊ¬bQ3D≠BL [±SGt,È{êHŸÆÖYÒÈ´éM$Ôπ°mÈ¿ÃàÅ7áU
+endstream
+endobj
+38 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 37 0 R >> /Subtype (application/c2pa) /Type /FileSpec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000070905 00001 n 
+37 2
+0000071040 00000 n 
+0000091311 00000 n 
+trailer
+<< /Size 39 /Root 3 1 R /Prev 70086 >>
+startxref
+91507
+%%EOF
