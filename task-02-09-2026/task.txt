@@ -1,0 +1,4 @@
+1. Delete a node from a binary search tree.
+2. Check if a binary tree is a binary search tree.
+3. Find the kth smallest and kth largest elements in a BST.
+4. Find whether the given BST is balanced or not.
